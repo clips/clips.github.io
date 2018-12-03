@@ -1,9 +1,7 @@
 ---
 permalink: /Clinical NLP/software
-title: Clinical NLP
+title: Clinical NLP software
 ---
 
-This is the software published by Accumulate
 
-* one
-* two
+todo
