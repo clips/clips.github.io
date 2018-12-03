@@ -1,8 +1,6 @@
 ---
 permalink: /clinical/
-header:
-    image: /assets/images/scanner.jpg
-
+title: clinical NLP
 ---
 
 Hello, we are Accumulate.

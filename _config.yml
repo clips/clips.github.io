@@ -299,7 +299,6 @@ defaults:
       type: pages
     values:
       header:
-        image: /assets/images/scanner.jpg
-
+          overlay_image: /assets/images/scanner.jpg
       layout: single
       author_profile: false

@@ -1,5 +1,4 @@
 ---
-header:
-  image: /assets/images/clips.jpg
-permalink: /clinical/
+permalink: /about/
+title: about
 ---
