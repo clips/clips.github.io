@@ -1,6 +1,6 @@
 ---
-permalink: /clinical/
-title: clinical NLP
+permalink: /Clinical NLP/
+title: Clinical NLP
 ---
 
 Hello, we are Accumulate.
