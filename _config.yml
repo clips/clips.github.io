@@ -284,6 +284,9 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        image: /assets/images/scanner.jpg
+
       layout: single
       author_profile: false
       read_time: false
@@ -295,5 +298,8 @@ defaults:
       path: ""
       type: pages
     values:
+      header:
+        image: /assets/images/scanner.jpg
+
       layout: single
       author_profile: false

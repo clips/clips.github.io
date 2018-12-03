@@ -1,5 +1,8 @@
 ---
 permalink: /clinical/
+header:
+    image: /assets/images/scanner.jpg
+
 ---
 
 Hello, we are Accumulate.
