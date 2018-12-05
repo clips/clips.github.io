@@ -26,6 +26,12 @@ gallery4:
     alt: "clicr"
     title: "clicr on github"
 
+gallery5:
+  - url: https://github.com/SimonSuster/seg_cnn
+    image_path: /assets/images/relex_pic.png
+    alt: "relex"
+    title: "relex on github"
+
 ---
 
 
@@ -44,17 +50,14 @@ This is a summary of openly available software with links to GitHub. For licensi
 
 
 ## Relation extraction
+- [relex](https://github.com/SimonSuster/seg_cnn): Revisiting neural relation classification in clinical notes with external information
+{% include gallery id="gallery5" %}
 
 ## Interpretability
+- [interpret](https://github.com/clips/interpret_with_rules): Rule induction for global explanation of trained models
 
 ## Question answering and reading comprehension
-
 - [clicr](https://github.com/clips/clicr): Machine reading and question answering on clinical case reports
 {% include gallery id="gallery4" %}
 
 
-## Contributors
-[Walter Daelemans](https://www.clips.uantwerpen.be/~walter/), [Pieter Fivez](https://www.clips.uantwerpen.be/people/pieter-fivez), [Simon Šuster](http://simonsuster.github.io/), [Stéphan Tulkens](http://stephantul.github.io/)
-
-## Licensing
-See individual repositories.

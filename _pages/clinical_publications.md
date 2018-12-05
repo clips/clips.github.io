@@ -21,9 +21,9 @@ In addition to English, we have also worked with Dutch when the data was availab
 
 # 2018
 
-Simon Šuster, Madhumita Sushil and Walter Daelemans. [Revisiting neural relation classification in clinical notes with external information.](http://aclweb.org/anthology/W18-5603) In Workshop on Health Text Mining and Information Analysis (LOUHI), EMNLP.
-
 Madhumita Sushil, Simon Šuster and Walter Daelemans. [Rule induction for global explanation of trained models.](https://aclweb.org/anthology/W18-5411) Analyzing and interpreting neural networks for NLP (BlackBoxNLP), EMNLP.
+
+Simon Šuster, Madhumita Sushil and Walter Daelemans. [Revisiting neural relation classification in clinical notes with external information.](http://aclweb.org/anthology/W18-5603) In Workshop on Health Text Mining and Information Analysis (LOUHI), EMNLP.
 
 Madhumita Sushil, Simon Šuster, Kim Luyckx, and Walter Daelemans. [Patient representation learning and interpretable evaluation using clinical notes.](https://www.sciencedirect.com/science/article/pii/S1532046418301266) Journal of Biomedical Informatics 84 (2018): 103-113.
 

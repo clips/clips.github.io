@@ -1,7 +1,13 @@
 ---
 permalink: /Clinical NLP/
 title: Clinical NLP
+header:
+  overlay_image: /assets/images/flask.jpg
+  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 ---
+<!-- https://vads.ac.uk/large.php?uid=83361 -->
+
+
 
 Introduce Clips' part in Accumulate:
 WP2:Terminology extraction, alignment, named entity recognition and coding

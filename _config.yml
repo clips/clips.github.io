@@ -285,7 +285,7 @@ defaults:
       type: posts
     values:
       header:
-        image: /assets/images/scanner.jpg
+        image: /assets/images/antw_banner.jpg
 
       layout: single
       author_profile: false
@@ -299,6 +299,6 @@ defaults:
       type: pages
     values:
       header:
-          overlay_image: /assets/images/scanner.jpg
+          overlay_image: /assets/images/antw_banner.jpg
       layout: single
       author_profile: false
