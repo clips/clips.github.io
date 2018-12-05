@@ -34,7 +34,7 @@ gallery5:
 
 gallery6:
   - url: https://github.com/clips/interpret_with_rules
-    image_path: /assets/images/interpert_pic.png
+    image_path: /assets/images/interpret_pic.png
     alt: "interpret"
     title: "interpret on github"
 
@@ -65,5 +65,3 @@ This is a summary of openly available software with links to GitHub. For licensi
 ## Question answering and reading comprehension
 - [clicr](https://github.com/clips/clicr): Machine reading and question answering on clinical case reports
 {% include gallery id="gallery4" %}
-
-
