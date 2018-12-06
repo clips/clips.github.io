@@ -8,13 +8,13 @@ header:
 <!-- https://vads.ac.uk/large.php?uid=83361 -->
 
 
-CLiPS has had multiple successful projects in Clinical NLP, the most recent of which is Accumulate (Acquiring Crucial Medical information Using Language Technology)
+CLiPS has had multiple successful projects in Clinical NLP, the most recent of which is Accumulate (Acquiring Crucial Medical information Using Language Technology.)
 
 # Accumulate
 
 Accumulate is a large SBO-IWT funded program in which CLiPS performs the following Work Packages (WP):
 
-##  WP2:Terminology extraction, alignment, named entity recognition and coding
+## WP2: Terminology extraction, alignment, named entity recognition and coding
 Develop the necessary preparatory steps for successful medical event and relation extraction. The main focus of this work package is on extraction, normalization and semantic classification of single and multi-term units in English and Dutch patient records. The scientific challenge is mastering the domain-specific (sometimes physician-specific) terminology and map it to terminological standards.
 
 ## WP3: Medical event extraction
@@ -29,6 +29,6 @@ Working on WPs 2 and 3 has led to the following deliverables.
 * [Software](/Clinical NLP/software)
 
 
-# Previous project
+# Previous projects
 
 Coming soon
