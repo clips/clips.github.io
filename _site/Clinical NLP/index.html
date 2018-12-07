@@ -128,7 +128,7 @@
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/Clinical%20NLP/" >Clinical NLP</a>
             </li><li class="masthead__menu-item">
-              <a href="/about/" >About</a>
+              <a href="/About/" >About</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -219,29 +219,184 @@
 
       <section class="page__content" itemprop="text">
         
-        <!-- https://vads.ac.uk/large.php?uid=83361 -->
-
-<p>Introduce Clips’ part in Accumulate:
-WP2:Terminology extraction, alignment, named entity recognition and coding
-This WP develops the necessary preparatory steps for successful medical event and relation extraction. The main focus of this work package is on extraction, normalization and semantic classification of single and multi-term units in English and Dutch patient records. The scientific challenge is mastering the domain-specific (sometimes physician-specific) terminology and map it to terminological standards.</p>
-
-<p>WP3: Medical event extraction
-This WP focuses on the recognition of medical events and their attributes including the processing of extra-propositional aspects of meaning such as negation, modality and quantification.</p>
-
-<ul>
-  <li>
-    <p><a href="/Clinical NLP/publications">Publications</a></p>
-  </li>
-  <li>
-    <p><a href="/Clinical NLP/software">Software</a></p>
-  </li>
-  <li>
-    <p>People
-  []</p>
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-angle-right"></i> On this page</h4></header>
+              <ul class="toc__menu">
+  <li><a href="#accumulate">Accumulate</a></li>
+  <li><a href="#previous-projects">Previous projects</a></li>
+  <li><a href="#people">People</a></li>
+  <li><a href="#publications">Publications</a></li>
+  <li><a href="#software">Software</a>
+    <ul>
+      <li><a href="#text-normalization">Text normalization</a></li>
+      <li><a href="#concept-extraction-and-disambiguation">Concept extraction and disambiguation</a></li>
+      <li><a href="#relation-extraction">Relation extraction</a></li>
+      <li><a href="#interpretability">Interpretability</a></li>
+      <li><a href="#question-answering-and-reading-comprehension">Question answering and reading comprehension</a></li>
+    </ul>
   </li>
 </ul>
+            </nav>
+          </aside>
+        
+        <!-- https://vads.ac.uk/large.php?uid=83361 -->
 
-<p>Here, brief history of clinical NLP at CLIPS.</p>
+<p>CLiPS has had multiple successful projects in Clinical NLP, described below.</p>
+
+<h1 id="accumulate"><a name="Accumulate"></a>Accumulate</h1>
+
+<p>Accumulate (Acquiring Crucial Medical information Using Language Technology) is a large SBO-IWT funded program focusing on developing fundamental technology for the processing of clinical language in English and Dutch. The project is a <a href="http://www.accumulate.be/">cooperation</a> with the University of Leuven and the university hospitals of Antwerp and Leuven. At CLiPS we have intensively worked on the following:</p>
+
+<ul>
+  <li>spelling normalization,</li>
+  <li>concept and relation extraction,</li>
+  <li>negation and speculation detection,</li>
+  <li>document representation learning,</li>
+  <li>question answering,</li>
+  <li>interpretability,</li>
+  <li>ethics and</li>
+  <li>clinical prediction tasks.</li>
+</ul>
+
+<h1 id="previous-projects"><a name="Previous"></a>Previous projects</h1>
+
+<p>The computational linguistics group of the CLiPS (CLiPS-CLG)  research centre has a long history in biomedical Natural Language Processing, starting with the multidisciplinary EU FP6 project <a href="https://www.clips.uantwerpen.be/projects/biomint-biological-text-mining">BIOMINT</a> (Biological Text Mining, 2003-2006), where we developed Natural Language Processing (NLP) tools for knowledge extraction on medical text in cooperation with the Universities of Leuven, Geneva (SIB), Manchester, and Vienna. We continued this line of research with the BOF GOA project <a href="https://www.clips.ua.ac.be/category/projects/biograph">Biograph</a> (Text Mining with Heterogeneous Knowledge Bases, 2007-2011), coordinated by CLiPS, where graph-based data mining techniques were applied to a combination of structured background knowledge (ontologies) and relations between concepts extracted from biomedical text (Medline). In that project, we successfully cooperated with the data mining and molecular genetics departments of the University of Antwerp and focused on deep analysis of biomedical text (e.g. looking at markers of uncertainty like negation and modality). We have also recently finished an <strong>IWT PhD</strong> project on clinical coding (Elyne Scheurwegs: Data fusion and structured input and output Machine Learning techniques for automated clinical coding, 2014-2017) in cooperation with the data mining research of the computer science department and the Antwerp University Hospital. CLiPS has also participated in a VLAIO Baekeland PhD project with the company Lynxcare as a partner.</p>
+
+<p>In addition, our group has also been active in international benchmarking competitions on biomedical and clinical NLP, both from the side of their organisation (for example the CLEF 2012 and 2013 Labs on Question Answering for Machine Reading of biomedical texts about Alzheimer disease, Rome and Valencia) as from the side of participation, for example CEGS N-GRID shared task 2016 about psychiatric symptom severity identification and the 2018 n2c2 shared task on cohort selection.</p>
+
+<h1 id="people"><a name="People"></a>People</h1>
+
+<ul>
+  <li><a href="https://www.clips.uantwerpen.be/~walter/">Walter Daelemans</a></li>
+  <li><a href="https://www.uantwerpen.be/nl/personeel/pieter-fivez/">Pieter Fivez</a></li>
+  <li><a href="https://madhumitasushil.github.io">Madhumita Sushil</a></li>
+  <li><a href="http://simonsuster.github.io/">Simon Šuster</a></li>
+  <li><a href="http://stephantul.github.io/about/">Stéphan Tulkens</a></li>
+</ul>
+
+<h1 id="publications"><a name="Publications"></a>Publications</h1>
+
+<p>Madhumita Sushil, Simon Šuster and Walter Daelemans (2018) <a href="https://aclweb.org/anthology/W18-5411">Rule induction for global explanation of trained models.</a> Analyzing and interpreting neural networks for NLP (BlackBoxNLP), EMNLP.</p>
+
+<p>Simon Šuster, Madhumita Sushil and Walter Daelemans (2018) <a href="http://aclweb.org/anthology/W18-5603">Revisiting neural relation classification in clinical notes with external information.</a> In Workshop on Health Text Mining and Information Analysis (LOUHI), EMNLP.</p>
+
+<p>Madhumita Sushil, Simon Šuster, Kim Luyckx, and Walter Daelemans (2018) <a href="https://www.sciencedirect.com/science/article/pii/S1532046418301266">Patient representation learning and interpretable evaluation using clinical notes.</a> Journal of Biomedical Informatics 84 (2018): 103-113.</p>
+
+<p>Simon Šuster and Walter Daelemans (2018) <a href="http://aclweb.org/anthology/N18-1140">CliCR: A Dataset of Clinical Case Reports for Machine Reading Comprehension.</a> Proceedings of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.</p>
+
+<p>Madhumita Sushil, Simon Šuster, Kim Luyckx and Walter Daelemans (2017) <a href="http://arxiv.org/abs/1711.05198">Unsupervised Dense Patient Representations from Unstructured Clinical Data with Interpretable Classification Decisions.</a> Workshop on Machine Learning for Health, NIPS.</p>
+
+<p>Pieter Fivez, Simon Šuster and Walter Daelemans (2017) <a href="http://simonsuster.github.io/publications/clinspellClinJournal.pdf">Unsupervised Context-Sensitive Spelling Correction of English and Dutch Clinical Free-Text with Word and Character N-Gram Embeddings.</a> Computational Linguistics in the Netherlands Journal.</p>
+
+<p>Elyne Scheurwegs, Madhumita Sushil, Stéphan Tulkens, Walter Daelemans, Kim Luyckx (2017) <a href="https://www.sciencedirect.com/science/article/pii/S1532046417301302">Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports.</a> Journal of Biomedical Informatics.</p>
+
+<p>Pieter Fivez, Simon Šuster and Walter Daelemans (2017) <a href="http://simonsuster.github.io/publications/clispell.pdf">Unsupervised Context-Sensitive Spelling Correction of Clinical Free-Text with Word and Character N-Gram Embeddings.</a> Workshop on Biomedical Natural Language Processing (BioNLP).</p>
+
+<p>Simon Šuster, Stéphan Tulkens and Walter Daelemans (2017) <a href="http://simonsuster.github.io/publications/EthNLP10.pdf">A Short Review of Ethical Challenges in Clinical Natural Language Processing.</a> First Workshop on Ethics in NLP.</p>
+
+<p>Stéphan Tulkens, Simon Šuster and Walter Daelemans. (2016) <a href="http://aclweb.org/anthology/W16-2910">Using Distributed Representations to Disambiguate Biomedical and Clinical Concepts.</a> Workshop on Biomedical Natural Language Processing (BioNLP).</p>
+
+<p>More soon…</p>
+
+<h1 id="software"><a name="Software"></a>Software</h1>
+
+<p>This is a summary of openly available software with links to GitHub. For licensing, see the individual repositories. Please get in touch with us if you’d like to commercialize our software.</p>
+
+<h2 id="text-normalization">Text normalization</h2>
+<ul>
+  <li><a href="https://github.com/clips/clinspell">clinspell</a>: Clinical spelling correction with word and character n-gram embeddings</li>
+</ul>
+
+<figure class=" ">
+  
+    
+      <a href="https://github.com/clips/clinspell" title="clinspell on github">
+        <img src="/assets/images/clinspell_pic.png" alt="clinspell" />
+      </a>
+    
+  
+  
+</figure>
+
+<h2 id="concept-extraction-and-disambiguation">Concept extraction and disambiguation</h2>
+<ul>
+  <li><a href="https://github.com/clips/yarn">yarn</a>: Disambiguating biomedical and clinical concepts with word embeddings</li>
+</ul>
+
+<figure class=" ">
+  
+    
+      <a href="https://github.com/clips/yarn" title="yarn on github">
+        <img src="/assets/images/sunflower_pic.png" alt="yarn" />
+      </a>
+    
+  
+  
+</figure>
+
+<ul>
+  <li><a href="https://github.com/clips/conch">conch</a>: Extracting medical concepts and terminology from patient records, and linking them to UMLS CUI</li>
+</ul>
+
+<figure class=" ">
+  
+    
+      <a href="https://github.com/clips/conch" title="conch on github">
+        <img src="/assets/images/conch.png" alt="conch" />
+      </a>
+    
+  
+  
+</figure>
+
+<h2 id="relation-extraction">Relation extraction</h2>
+<ul>
+  <li><a href="https://github.com/SimonSuster/seg_cnn">relex</a>: Revisiting neural relation classification in clinical notes with external information</li>
+</ul>
+
+<figure class=" ">
+  
+    
+      <a href="https://github.com/SimonSuster/seg_cnn" title="relex on github">
+        <img src="/assets/images/relex_pic.png" alt="relex" />
+      </a>
+    
+  
+  
+</figure>
+
+<h2 id="interpretability">Interpretability</h2>
+<ul>
+  <li><a href="https://github.com/clips/interpret_with_rules">interpret</a>: Rule induction for global explanation of trained models</li>
+</ul>
+
+<figure class=" ">
+  
+    
+      <a href="https://github.com/clips/interpret_with_rules" title="interpret on github">
+        <img src="/assets/images/interpret_pic.png" alt="interpret" />
+      </a>
+    
+  
+  
+</figure>
+
+<h2 id="question-answering-and-reading-comprehension">Question answering and reading comprehension</h2>
+<ul>
+  <li><a href="https://github.com/clips/clicr">clicr</a>: Machine reading and question answering on clinical case reports</li>
+</ul>
+
+<figure class=" ">
+  
+    
+      <a href="https://github.com/clips/clicr" title="clicr on github">
+        <img src="/assets/images/clicr_pic.png" alt="clicr" />
+      </a>
+    
+  
+  
+</figure>
 
         
       </section>
@@ -300,8 +455,6 @@ This WP focuses on the recognition of medical events and their attributes includ
         
       
     
-
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
