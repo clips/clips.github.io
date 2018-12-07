@@ -57,7 +57,7 @@ Accumulate (Acquiring Crucial Medical information Using Language Technology) is 
 - spelling normalization,
 - concept and relation extraction,
 - negation and speculation detection,
-- document representation learning,
+- patient representation learning,
 - question answering,
 - interpretability,
 - ethics and
