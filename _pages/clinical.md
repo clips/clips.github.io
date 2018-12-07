@@ -52,7 +52,7 @@ CLiPS has had multiple successful projects in Clinical NLP, described below.
 
 # <a name="Accumulate"/>Accumulate
 
-Accumulate (Acquiring Crucial Medical information Using Language Technology) is a large SBO-IWT funded program focusing on developing fundamental technology for the processing of clinical language in English and Dutch. The project is a [cooperation](http://www.accumulate.be/) with the University of Leuven and the university hospitals of Antwerp and Leuven. At CLiPS we have intensively worked on the following:
+Accumulate (Acquiring Crucial Medical information Using Language Technology) is a large SBO-IWT funded program focusing on developing fundamental technology for the processing of clinical language in English and Dutch. The [project](http://www.accumulate.be/) is a cooperation  with the University of Leuven and the university hospitals of Antwerp and Leuven. At CLiPS we have intensively worked on the following:
 
 - spelling normalization,
 - concept and relation extraction,
