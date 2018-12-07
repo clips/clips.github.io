@@ -1,5 +1,5 @@
 ---
-permalink: /Clinical NLP/
+permalink: /ClinicalNLP/
 title: Clinical NLP
 header:
   overlay_image: /assets/images/flask.jpg
