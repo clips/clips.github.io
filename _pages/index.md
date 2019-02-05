@@ -86,6 +86,7 @@ In addition, our group has also been active in international benchmarking compet
 
 [//]: In addition to English, we have also worked with Dutch when the data was available. We also wrote several technical reports about annotation, which are not listed here (please get in touch with us for more information).
 
+Stéphan Tulkens, Simon Šuster and Walter Daelemans (2019) [Unsupervised Concept Extraction from Clinical Text through Semantic Composition.](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics) Journal of Biomedical Informatics.
 
 Madhumita Sushil, Simon Šuster and Walter Daelemans (2018) [Rule induction for global explanation of trained models.](https://aclweb.org/anthology/W18-5411) Analyzing and interpreting neural networks for NLP (BlackBoxNLP), EMNLP.
 
