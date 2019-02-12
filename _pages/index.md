@@ -8,7 +8,7 @@ header:
 
 toc: true
 toc_icon: angle-right
-  
+
 gallery:
   - url: https://github.com/clips/clinspell
     image_path: /assets/images/clinspell_pic.png
@@ -109,7 +109,10 @@ Simon Šuster, Stéphan Tulkens and Walter Daelemans (2017) [A Short Review of E
 Stéphan Tulkens, Simon Šuster and Walter Daelemans. (2016) [Using Distributed Representations to Disambiguate Biomedical and Clinical Concepts.](http://aclweb.org/anthology/W16-2910) Workshop on Biomedical Natural Language Processing (BioNLP).
 
 More soon...
- 
+
+# <a name="Abstracts"/>Abstracts
+Merijn Beeksma, Madhumita Sushil, Pieter Fivez, Simon Šuster, Florian Kunneman, Ghiath Ghanem, Walter Daelemans, Antal van den Bosch. (2018) [Mining gold from EMRs: using clinical notes to automate patient screenings](ext_docs/abstract_cohort_sel.pdf). N2C2 Shared Task on Challenges in Natural Language Processing for Clinical Data.
+
 # <a name="Software"/>Software
 
 This is a summary of openly available software with links to GitHub. For licensing, see the individual repositories. Please get in touch with us if you'd like to commercialize our software.
