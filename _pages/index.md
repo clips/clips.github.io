@@ -45,6 +45,12 @@ gallery6:
     alt: "interpret"
     title: "interpret on github"
 
+gallery7:
+  - url: https://github.com/clips/
+    image_path: /assets/images/ptlearn_pic.png
+    alt: "pt-learn"
+    title: "pt-learn on github"
+
 ---
 <!-- https://vads.ac.uk/large.php?uid=83361 -->
 
@@ -134,6 +140,10 @@ This is a summary of openly available software with links to GitHub. For licensi
 ## Relation extraction
 - [relex](https://github.com/SimonSuster/seg_cnn): Revisiting neural relation classification in clinical notes with external information
 {% include gallery id="gallery5" %}
+
+## Patient representation learning
+- [pt-learn] (available soon): Unsupervised patient representations from clinical notes with interpretable classification decisions
+{% include gallery id="gallery7" %}
 
 ## Interpretability
 - [interpret](https://github.com/clips/interpret_with_rules): Rule induction for global explanation of trained models
