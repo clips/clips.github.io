@@ -128,6 +128,9 @@ This is a summary of openly available software with links to GitHub. For licensi
 - [conch](https://github.com/clips/conch): Extracting medical concepts and terminology from patient records, and linking them to UMLS CUI
 {% include gallery id="gallery3" %}
 
+## Negation detection
+- [nl-neg-clinical](https://github.com/clips/dutchclinicalnegation): Negation detection of concepts in Dutch clinical text
+
 ## Relation extraction
 - [relex](https://github.com/SimonSuster/seg_cnn): Revisiting neural relation classification in clinical notes with external information
 {% include gallery id="gallery5" %}
