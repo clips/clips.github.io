@@ -7,6 +7,6 @@ header:
 
 ---
 
-<a name=The Linguistic Landscape of Hate Speech in Social Media (LiLaH)/>The Linguistic Landscape of Hate Speech in Social Media (LiLaH)
+The Linguistic Landscape of Hate Speech in Social Media (LiLaH)
 
 pass
