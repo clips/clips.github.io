@@ -18,5 +18,7 @@ The project is a collaboration between [CLiPS](https://www.uantwerpen.be/en/rese
 # <a name="People"/>People
 
 
+- [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/)
+- [Ilia Markov](https://ilia-markov.github.io)
 
 
