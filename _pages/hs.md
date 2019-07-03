@@ -15,7 +15,7 @@ We are interested in the language that is being used to express hate in social m
 
 The project is a collaboration between [CLiPS](https://www.uantwerpen.be/en/research-groups/clips/), [University of Antwerp](https://www.uantwerpen.be/en/) and [the Department of Translation](https://prevajalstvo.ff.uni-lj.si/en/) ([University of Ljubljana](https://www.uni-lj.si/eng/about_university_of_ljubljana.aspx), Slovenia) and [the Department of Knowledge Technologies](https://kt.ijs.si) ([Jozef Stefan Institute](https://www.ijs.si/ijsw/JSI), Slovenia).
 
-# <a name="People"/>
+# <a name="People"/>People
 
 
 
