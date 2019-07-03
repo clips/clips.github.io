@@ -17,10 +17,12 @@ The project is a collaboration between the [Centre for Computational Linguistics
 
 # <a name="People"/>People
 
-
 - [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (CLiPS, University of Antwerp)
 - [Darja Fiser](https://www.clarin.eu/person/darja-fi%C5%A1er) (Department of Translation, University of Ljubljana)
 - [Tomaž Erjavec](http://nl.ijs.si/et/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 - [Nikola Ljubešić](http://nlp.ffzg.hr/people/nikola-ljubesic/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 - [Ilia Markov](https://ilia-markov.github.io) (CLiPS, University of Antwerp)
 
+# <a name="Publications"/>Publications
+
+Nikola Ljubešić, Darja Fišer and Tomaž Erjavec (2019) [The FRENK Datasets of Socially Unacceptable Discourse in Slovene and English.](https://arxiv.org/pdf/1906.02045.pdf) arXiv preprint arXiv:1906.02045.
