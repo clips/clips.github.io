@@ -10,7 +10,7 @@ header:
 # <a name="LiLaH (The Linguistic Landscape of Hate Speech in Social Media)"/>LiLaH (The Linguistic Landscape of Hate Speech in Social Media)
 
 LiLaH (The Linguistic Landscape of Hate Speech in Social Media) is an FWO (Flemish NSF) funded project focusing on 
-building systems that can automatically recognize and analyse hate speech in social media text. 
+building systems that can automatically recognize and analyse hate speech in social media texts. 
 We are interested in the language that is being used to express hate in social media, specifically hate against migrants and LGBT people, and in automatically detecting it. <!-- The analysis will be on different linguistic levels and different levels of complexity. --> The languages addressed are English, Dutch, Slovene, Croatian and French.
 
 The project is a cooperation with [The Centre for Computational Linguistics and Psycholinguistics (CLiPS)](https://www.uantwerpen.be/en/research-groups/clips/) ([University of Antwerp](https://www.uantwerpen.be/en/), Belgium), [The Department of Translation](https://prevajalstvo.ff.uni-lj.si/en/) ([University of Ljubljana](https://www.uni-lj.si/eng/about_university_of_ljubljana.aspx), Slovenia) and [The Department of Knowledge Technologies](https://kt.ijs.si) ([Jozef Stefan Institute](https://www.ijs.si/ijsw/JSI), Slovenia).
