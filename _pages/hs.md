@@ -20,7 +20,7 @@ The project is a collaboration between the [Centre for Computational Linguistics
 
 - [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (CLiPS, University of Antwerp)
 - [Darja Fiser](https://www.clarin.eu/person/darja-fi%C5%A1er) (Department of Translation, University of Ljubljana)
-- [Tomaž Erjavec](https://nl.ijs.si/et/) (Department of Knowledge Technologies, Jozef Stefan Institute)
-- [Nikola Ljubešić](https://nlp.ffzg.hr/people/nikola-ljubesic/) (Department of Knowledge Technologies, Jozef Stefan Institute)
+- [Tomaž Erjavec](http://www.nl.ijs.si/et/) (Department of Knowledge Technologies, Jozef Stefan Institute)
+- [Nikola Ljubešić](https://www.nlp.ffzg.hr/people/nikola-ljubesic/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 - [Ilia Markov](https://ilia-markov.github.io) (CLiPS, University of Antwerp)
 
