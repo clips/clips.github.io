@@ -9,4 +9,6 @@ header:
 
 The Linguistic Landscape of Hate Speech in Social Media (LiLaH)
 
+# <a name="Accumulate"/>Accumulate
+
 pass
