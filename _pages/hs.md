@@ -18,13 +18,15 @@ The project is a cooperation with [The Centre for Computational Linguistics and 
 # <a name="People"/>People
 
 ## <a name="Ljubljana"/>Ljubljana Team
-- [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (CLiPS, University of Antwerp)
+
 - [Darja Fiser](https://www.clarin.eu/person/darja-fi%C5%A1er) (Department of Translation, University of Ljubljana)
 - [Tomaž Erjavec](http://nl.ijs.si/et/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 - [Nikola Ljubešić](http://nlp.ffzg.hr/people/nikola-ljubesic/) (Department of Knowledge Technologies, Jozef Stefan Institute)
-- [Ilia Markov](https://ilia-markov.github.io) (CLiPS, University of Antwerp)
 
-## <a name="Antwerp"/>Anmtwerp Team
+## <a name="Antwerp"/>Antwerp Team
+- [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (CLiPS, University of Antwerp)
+- [Ilia Markov](https://ilia-markov.github.io) (CLiPS, University of Antwerp)
+- [Tom De Smedt](https://www.organisms.be/) (CLiPS, University of Antwerp and [textgain.com](https://www.textgain.com))
 
 # <a name="Publications"/>Publications
 
