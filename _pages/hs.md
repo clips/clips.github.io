@@ -17,19 +17,21 @@ The project is a cooperation with [The Centre for Computational Linguistics and 
 
 # <a name="People"/>People
 
-## <a name="Ljubljana"/>Ljubljana Team
+### <a name="Ljubljana"/>Ljubljana Team
 
 - [Darja Fiser](https://www.clarin.eu/person/darja-fi%C5%A1er) (Department of Translation, University of Ljubljana)
 - [Tomaž Erjavec](http://nl.ijs.si/et/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 - [Nikola Ljubešić](http://nlp.ffzg.hr/people/nikola-ljubesic/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 
-## <a name="Antwerp"/>Antwerp Team
+### <a name="Antwerp"/>Antwerp Team
 - [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (CLiPS, University of Antwerp)
 - [Ilia Markov](https://ilia-markov.github.io) (CLiPS, University of Antwerp)
-- [Tom De Smedt](https://www.organisms.be/) (CLiPS, University of Antwerp and [textgain.com](https://www.textgain.com))
+- [Tom De Smedt](https://www.organisms.be/) (CLiPS, University of Antwerp and [textgain](https://www.textgain.com))
 
 # <a name="Publications"/>Publications
 
 # <a name="Related"/>Related work
 
 Nikola Ljubešić, Darja Fišer and Tomaž Erjavec (2019) [The FRENK Datasets of Socially Unacceptable Discourse in Slovene and English.](https://arxiv.org/pdf/1906.02045.pdf) arXiv preprint arXiv:1906.02045.
+
+De Smedt, T., Jaki, S., Kotzé, E., Saoud, L., Gwóźdź, M., De Pauw, G., & Daelemans, W. (2018). [Multilingual Cross-domain Perspectives on Online Hate Speech](https://www.uantwerpen.be/images/uantwerpen/container2712/files/perspectives-hate.pdf) [pdf]
