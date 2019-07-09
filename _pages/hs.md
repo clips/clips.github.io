@@ -35,3 +35,7 @@ The project is a cooperation with [The Centre for Computational Linguistics and 
 Nikola Ljubešić, Darja Fišer and Tomaž Erjavec (2019) [The FRENK Datasets of Socially Unacceptable Discourse in Slovene and English.](https://arxiv.org/pdf/1906.02045.pdf) arXiv preprint arXiv:1906.02045.
 
 De Smedt, T., Jaki, S., Kotzé, E., Saoud, L., Gwóźdź, M., De Pauw, G., & Daelemans, W. (2018). [Multilingual Cross-domain Perspectives on Online Hate Speech](https://www.uantwerpen.be/images/uantwerpen/container2712/files/perspectives-hate.pdf) [pdf]
+
+Paula Fortuna and Sergio Nunes. (2018). [A survey of automatic detection of hate speech in text. ACL Computing Surveys, Vol 51, 4, article 85](https://dl.acm.org/citation.cfm?id=3232676)
+
+
