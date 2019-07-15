@@ -36,6 +36,6 @@ Nikola Ljubešić, Darja Fišer and Tomaž Erjavec (2019) [The FRENK Datasets of
 
 De Smedt, T., Jaki, S., Kotzé, E., Saoud, L., Gwóźdź, M., De Pauw, G., & Daelemans, W. (2018). [Multilingual Cross-domain Perspectives on Online Hate Speech](https://www.uantwerpen.be/images/uantwerpen/container2712/files/perspectives-hate.pdf) [pdf]
 
-Paula Fortuna and Sergio Nunes. (2018). [A survey of automatic detection of hate speech in text. ACL Computing Surveys, Vol 51, 4, article 85](https://dl.acm.org/citation.cfm?id=3232676)
+Paula Fortuna and Sergio Nunes. (2018). [A survey of automatic detection of hate speech in text. ACM Computing Surveys, Vol 51, 4, article 85](https://dl.acm.org/citation.cfm?id=3232676)
 
 
