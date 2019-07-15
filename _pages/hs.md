@@ -19,7 +19,7 @@ The project is a cooperation with [The Centre for Computational Linguistics and 
 
 ### <a name="Ljubljana"/>Ljubljana Team
 
-- [Darja Fiser](https://www.clarin.eu/person/darja-fi%C5%A1er) (Department of Translation, University of Ljubljana)
+- [Darja Fišer](https://www.clarin.eu/person/darja-fi%C5%A1er) (Department of Translation, University of Ljubljana)
 - [Tomaž Erjavec](http://nl.ijs.si/et/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 - [Nikola Ljubešić](http://nlp.ffzg.hr/people/nikola-ljubesic/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 
