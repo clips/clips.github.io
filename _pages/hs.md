@@ -22,6 +22,8 @@ The project is a cooperation with [The Centre for Computational Linguistics and 
 - [Darja Fišer](https://www.clarin.eu/person/darja-fi%C5%A1er) (Department of Translation, University of Ljubljana)
 - [Tomaž Erjavec](http://nl.ijs.si/et/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 - [Nikola Ljubešić](http://nlp.ffzg.hr/people/nikola-ljubesic/) (Department of Knowledge Technologies, Jozef Stefan Institute)
+- [Kristina Pahor de Maiti](https://prevajalstvo.ff.uni-lj.si/osebje/kristina-pahor-de-maiti/) (Department of Knowledge Technologies, Jozef Stefan Institute)
+- [Jasmin Franza](https://prevajalstvo.ff.uni-lj.si/osebje/jasmin-franza/) (Department of Knowledge Technologies, Jozef Stefan Institute)
 
 ### <a name="Antwerp"/>Antwerp Team
 - [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (CLiPS, University of Antwerp)
