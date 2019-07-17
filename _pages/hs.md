@@ -35,7 +35,7 @@ The project ARRS N6-0099: "The linguistic landscape of hate speech on social med
 
 # <a name="Publications"/>Publications
 
-# <a name="Related"/>Related work
+# <a name="Related"/>Related work 
 
 Nikola Ljubešić, Darja Fišer and Tomaž Erjavec (2019) [The FRENK Datasets of Socially Unacceptable Discourse in Slovene and English.](https://arxiv.org/pdf/1906.02045.pdf) arXiv preprint arXiv:1906.02045.
 
