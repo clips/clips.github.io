@@ -51,6 +51,7 @@ gallery7:
     alt: "pt-learn"
     title: "pt-learn on github"
 
+
 ---
 <!-- https://vads.ac.uk/large.php?uid=83361 -->
 
@@ -152,3 +153,6 @@ This is a summary of openly available software with links to GitHub. For licensi
 ## Question answering and reading comprehension
 - [clicr](https://github.com/clips/clicr): Machine reading and question answering on clinical case reports
 {% include gallery id="gallery4" %}
+
+- [memory-networks](https://github.com/clips/memory-networks): Memory networks for medical machine reading
+
