@@ -137,6 +137,7 @@ This is a summary of openly available software with links to GitHub. For licensi
 
 ## Negation detection
 - [nl-neg-clinical](https://github.com/clips/dutchclinicalnegation): Negation detection of concepts in Dutch clinical text
+- [en-neg-clinical](https://github.com/clips/english_clinical_modality): Negation detection of concepts in English clinical text
 
 ## Speculation detection
 - [nl-spec-clinical](https://github.com/clips/dutchclinicalspeculation): Speculation detection of concepts in Dutch clinical text
