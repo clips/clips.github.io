@@ -138,6 +138,10 @@ This is a summary of openly available software with links to GitHub. For licensi
 ## Negation detection
 - [nl-neg-clinical](https://github.com/clips/dutchclinicalnegation): Negation detection of concepts in Dutch clinical text
 
+## Speculation detection
+- [nl-spec-clinical](https://github.com/clips/dutchclinicalspeculation): Speculation detection of concepts in Dutch clinical text
+- [en-spec-clinical](https://github.com/clips/english_clinical_modality): Speculation detection of concepts in English clinical text
+
 ## Relation extraction
 - [relex](https://github.com/SimonSuster/seg_cnn): Revisiting neural relation classification in clinical notes with external information
 {% include gallery id="gallery5" %}
