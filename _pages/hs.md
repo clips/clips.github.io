@@ -31,7 +31,7 @@ The project is a cooperation with [The Centre for Computational Linguistics and 
 - [Tom De Smedt](https://www.organisms.be/) (CLiPS, University of Antwerp and [textgain](https://www.textgain.com))
 
 # <a name="Acknowledgments"/>Acknowledgments
-The project ARRS N6-0099: "The linguistic landscape of hate speech on social media", 2019 – 2023
+The project ARRS N6-0099: "The linguistic landscape of hate speech on social media", 2019–2023
 
 # <a name="Publications"/>Publications
 
