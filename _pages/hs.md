@@ -37,10 +37,10 @@ The project ARRS N6-0099: "The linguistic landscape of hate speech on social med
 
 # <a name="Related"/>Related work 
 
-Nikola Ljubešić, Darja Fišer and Tomaž Erjavec (2019) [The FRENK Datasets of Socially Unacceptable Discourse in Slovene and English.](https://arxiv.org/pdf/1906.02045.pdf) arXiv preprint arXiv:1906.02045.
+N. Ljubešić, D. Fišer and T. Erjavec (2019) [The FRENK Datasets of Socially Unacceptable Discourse in Slovene and English.](https://arxiv.org/pdf/1906.02045.pdf) arXiv preprint arXiv:1906.02045.
 
-De Smedt, T., Jaki, S., Kotzé, E., Saoud, L., Gwóźdź, M., De Pauw, G., & Daelemans, W. (2018). [Multilingual Cross-domain Perspectives on Online Hate Speech](https://www.uantwerpen.be/images/uantwerpen/container2712/files/perspectives-hate.pdf) [pdf]
+T. De Smedt, S. Jaki, E. Kotzé, L. Saoud, M. Gwóźdź, G. De Pauw, and W. Daelemans. (2018). [Multilingual Cross-domain Perspectives on Online Hate Speech](https://www.uantwerpen.be/images/uantwerpen/container2712/files/perspectives-hate.pdf) [pdf]
 
-Paula Fortuna and Sergio Nunes. (2018). [A survey of automatic detection of hate speech in text. ACM Computing Surveys, Vol 51, 4, article 85](https://dl.acm.org/citation.cfm?id=3232676)
+P. Fortuna and S. Nunes. (2018). [A survey of automatic detection of hate speech in text. ACM Computing Surveys, Vol 51, 4, article 85](https://dl.acm.org/citation.cfm?id=3232676)
 
 
