@@ -91,7 +91,9 @@ In addition, our group has also been active in international benchmarking compet
 
 # <a name="Publications"/>Publications
 
-[//]: In addition to English, we have also worked with Dutch when the data was available. We also wrote several technical reports about annotation, which are not listed here (please get in touch with us for more information).
+[//]: In addition to English, we have also worked with Dutch when the data was available. We wrote several technical reports about annotation, which are not listed here (please get in touch with us for more information).
+
+Simon Šuster, Madhumita Sushil and Walter Daelemans (2019) [Why can't memory networks read effectively?](https://arxiv.org/pdf/1910.07350.pdf) arXiv preprint arXiv:1910.07350.
 
 Stéphan Tulkens, Simon Šuster and Walter Daelemans (2019) [Unsupervised Concept Extraction from Clinical Text through Semantic Composition.](https://doi.org/10.1016/j.jbi.2019.103120) Journal of Biomedical Informatics.
 
@@ -159,5 +161,5 @@ This is a summary of openly available software with links to GitHub. For licensi
 - [clicr](https://github.com/clips/clicr): Machine reading and question answering on clinical case reports
 {% include gallery id="gallery4" %}
 
-- [memory-networks](https://github.com/clips/memory-networks): Memory networks for medical machine reading
+- [memory-networks](https://github.com/clips/memory-networs-for-reading-comprehension): Memory networks for medical machine reading
 
