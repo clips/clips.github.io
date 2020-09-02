@@ -3,3 +3,5 @@ main:
     url: /clinical
   - title: "LiLaH" 
     url: /hs
+  - title: "Conversational Agents"
+    url: /dialog
