@@ -34,10 +34,10 @@ gallery4:
     title: "clicr on github"
 
 gallery5:
-  - url: https://github.com/SimonSuster/seg_cnn
+  - url: https://github.com/clips/clinical-rel-class
     image_path: /assets/images/relex_pic.png
-    alt: "relex"
-    title: "relex on github"
+    alt: "clinical-rel-class"
+    title: "clinical-rel-class on github"
 
 gallery6:
   - url: https://github.com/clips/interpret_with_rules
@@ -146,7 +146,7 @@ This is a summary of openly available software with links to GitHub. For licensi
 - [en-spec-clinical](https://github.com/clips/english_clinical_modality): Speculation detection of concepts in English clinical text
 
 ## Relation extraction
-- [relex](https://github.com/SimonSuster/seg_cnn): Revisiting neural relation classification in clinical notes with external information
+- [clinical-rel-class](https://github.com/clips/clinical-rel-class): Revisiting neural relation classification in clinical notes with external information
 {% include gallery id="gallery5" %}
 
 ## Patient representation learning
