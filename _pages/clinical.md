@@ -93,6 +93,9 @@ In addition, our group has also been active in international benchmarking compet
 
 [//]: In addition to English, we have also worked with Dutch when the data was available. We wrote several technical reports about annotation, which are not listed here (please get in touch with us for more information).
 
+
+Madhumita Sushil, Simon Šuster and Walter Daelemans (2020) [Distilling neural networks into skipgram-level decision lists](http://arxiv.org/pdf/2005.07111) arXiv preprint arXiv:2005.07111.
+
 Simon Šuster, Madhumita Sushil and Walter Daelemans (2019) [Why can't memory networks read effectively?](https://arxiv.org/pdf/1910.07350.pdf) arXiv preprint arXiv:1910.07350.
 
 Stéphan Tulkens, Simon Šuster and Walter Daelemans (2019) [Unsupervised Concept Extraction from Clinical Text through Semantic Composition.](https://doi.org/10.1016/j.jbi.2019.103120) Journal of Biomedical Informatics.
