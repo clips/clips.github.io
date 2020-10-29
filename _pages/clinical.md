@@ -153,11 +153,12 @@ This is a summary of openly available software with links to GitHub. For licensi
 {% include gallery id="gallery5" %}
 
 ## Patient representation learning
-- [pt-learn] (available soon): Unsupervised patient representations from clinical notes with interpretable classification decisions
+- [pt-rep](https://github.com/clips/PatientRep): Unsupervised patient representations from clinical notes with interpretable classification decisions
 {% include gallery id="gallery7" %}
 
 ## Interpretability
 - [interpret](https://github.com/clips/interpret_with_rules): Rule induction for global explanation of trained models
+- [Unravel](https://github.com/clips/rnn_expl_rules) Distilling neural networks into skipgram-level decision lists
 {% include gallery id="gallery6" %}
 
 ## Question answering and reading comprehension
