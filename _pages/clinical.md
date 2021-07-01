@@ -93,6 +93,15 @@ In addition, our group has also been active in international benchmarking compet
 
 [//]: In addition to English, we have also worked with Dutch when the data was available. We wrote several technical reports about annotation, which are not listed here (please get in touch with us for more information).
 
+Pieter Fivez, Simon Šuster and Walter Daelemans (2021) [Scalable Few-Shot Learning of Robust Biomedical Name Representations.](https://www.aclweb.org/anthology/2021.bionlp-1.3.pdf) BioNLP, NAACL.
+
+Pieter Fivez, Simon Šuster and Walter Daelemans (2021) [Integrating Higher-Level Semantics into Robust Biomedical Name Representations.](https://www.aclweb.org/anthology/2021.bionlp-1.3.pdf)  Workshop on Health Text Mining and Information Analysis (LOUHI), EACL.
+
+Pieter Fivez, Simon Šuster and Walter Daelemans (2021) [Conceptual Grounding Constraints for Truly Robust Biomedical Name Representations.](https://www.aclweb.org/anthology/2021.eacl-main.208.pdf) EACL.
+
+Madhumita Sushil, Simon Šuster and Walter Daelemans (2021) [Are we there yet? Exploring clinical domain knowledge of BERT models.](https://www.aclweb.org/anthology/2021.bionlp-1.5.pdf) BioNLP Workshop, NAACL. 
+
+Madhumita Sushil, Simon Šuster and Walter Daelemans (2021) [Contextual explanation rules for neural clinical classifiers.](https://www.aclweb.org/anthology/2021.bionlp-1.22.pdf) BioNLP Workshop, NAACL.
 
 Madhumita Sushil, Simon Šuster and Walter Daelemans (2020) [Distilling neural networks into skipgram-level decision lists](http://arxiv.org/pdf/2005.07111) arXiv preprint arXiv:2005.07111.
 
