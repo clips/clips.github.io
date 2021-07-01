@@ -138,6 +138,13 @@ Merijn Beeksma, Madhumita Sushil, Pieter Fivez, Simon Šuster, Florian Kunneman,
 
 This is a summary of openly available software with links to GitHub. For licensing, see the individual repositories. Please get in touch with us if you'd like to commercialize our software.
 
+## Robust representations of biomedical names
+- [conceptualgrounding](https://github.com/clips/conceptualgrounding)
+
+- [higherlevelsemantics](https://github.com/clips/higherlevelsemantics)
+
+- [fewshot-biomedical-names](https://github.com/clips/fewshot-biomedical-names)
+
 ## Text normalization
 - [clinspell](https://github.com/clips/clinspell): Clinical spelling correction with word and character n-gram embeddings
 {% include gallery id="gallery" %}
